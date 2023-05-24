@@ -28,6 +28,11 @@ Wiktor Androsiuk - S16838
 - After these steps You can run the rest of the project (KMeans, Bert, Classic Models and Neural Networks)
 - If the UTF-8 error occurs, please uncomment and run the very first cell of the project
 
+## Project Overview
+In our project, we trained several models to analyze the sentiment of a tweet in polish and english language. </br>
+First, we downloaded our training set using Tweepy. Then we refactor our data and labeled it. </br>
+After processing our data to csv to save time running previous code, which takes a while.
+
 ## Data 
 Data was obtained from Twitter using Tweepy for English and Polish language. Due to problems with API we decided to save it to the CSV files for future use.
 
