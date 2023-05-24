@@ -2,11 +2,9 @@
 Sentiment recognition made in Python.
 
 ### Made by 
-Bartłomiej Stocki - S18977
-
-Marcin Wałachowski - S19541
-
-Wiktor Androsiuk - S16838
+Bartłomiej Stocki - S18977 </br>
+Marcin Wałachowski - S19541 </br>
+Wiktor Androsiuk - S16838 </br>
 
 ## Methods used
 - K-means
