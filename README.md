@@ -33,7 +33,7 @@ After processing our data to csv to save time running previous code, which takes
 
 ## Data 
 Data was obtained from Twitter using Tweepy for English and Polish language. Due to problems with API we decided to save it to the CSV files for future use.
-
+Each file contains around ~20k tweets.
 Raw data files:
   - pis_raw.csv (PL data)
   - eurovision.csv (EN data)
