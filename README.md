@@ -72,36 +72,24 @@ Processed files:
 ## Clasic models
 ### Naive Bayes
 #### Język Polski
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/f284705a-164f-4aca-ad39-8a5325ad7bd7)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/593af571-565a-4a98-8b3f-c1488cdcfe7a)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/b02773fb-d7e9-42b0-aab0-04ecbec8ffed)
+![image](https://github.com/s18977/SentitemtRecognition/assets/61686885/564a437c-3772-46dc-bbf8-b71f2c63de95)
 
 #### Język Angielski
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/f363efe8-6695-445d-9760-796a5d91bcbc)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/649402dc-7544-4bab-8bbe-0a9ab95ab0b6)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/5baaa6d3-2513-4a2f-8474-be2959d89086)
+![image](https://github.com/s18977/SentitemtRecognition/assets/61686885/d5487290-9617-4180-baa0-f0e230c51d59)
 
 ### Support Vector Machine
 #### Język Polski
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/3407b18b-c824-491e-8c75-a6b65fadb188)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/7f1ab02a-2955-4313-8715-8bbc566fb2f3)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/a95c17dd-16c2-4f7d-8e93-ab5c6a965e34)
+![image](https://github.com/s18977/SentitemtRecognition/assets/61686885/2c1c74f7-1e05-47d3-81d1-7e1315994513)
 
 #### Język Angielski
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/cd094441-54eb-4443-93f6-557e07c62f03)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/21e6289d-dd9a-4379-a217-e23ab1b89442)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/76e6c7a2-4f15-494f-a1a1-44076e415420)
+![image](https://github.com/s18977/SentitemtRecognition/assets/61686885/bfb12a0d-7ec2-4e50-8285-0a92a7b836fd)
 
 ### Logistic Regression
 #### Język Polski
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/22e2a3c3-7cdb-44d0-9ec3-f8dd362f31d5)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/e1e999e6-c256-4408-a466-5ca660d7ce3c)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/768fe3d1-d47d-4ef1-bab0-589f465d4d61)
+![image](https://github.com/s18977/SentitemtRecognition/assets/61686885/eaf3b9d6-e313-4379-b31b-bd4d06ea1956)
 
 #### Język Angielski
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/a96aa6e4-53a1-4df9-8ec1-f707d96a8ba1)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/0f3fb5af-91ad-4ae2-8100-82b500fe2188)
-![image](https://github.com/s18977/SentitemtRecognition/assets/44446716/a63f31d2-4f1f-4585-b247-b77d0ab6c257)
+![image](https://github.com/s18977/SentitemtRecognition/assets/61686885/f6705ccf-89ba-4277-93e8-4c0ab93ddb4e)
 
 ## Neural Networks
 ### LSTM
