@@ -4,7 +4,7 @@ Sentiment recognition made in Python.
 ### Made by 
 Bartłomiej Stocki - S18977
 
-Marcin Wałachowski - 
+Marcin Wałachowski - S19541
 
 Wiktor Androsiuk - S16838
 
@@ -34,7 +34,7 @@ Data contains:
 - id
 - text
 
-The most useful part of information from this data is 'text' which represents the content of the tweet. Tweets have been cleaned from characters that could influence the learning process, labelized, lemmatized and saved again to save time on processing them again. **It's good idea to work on already processed data from files to save time on another processing process.**:
+The most useful part of information from this data is 'text' which represents the content of the tweet. Tweets have been cleaned from characters that could influence the learning process, labelized, lemmatized and saved again to save time on processing them again. **It's a good idea to work on already processed data from files to save time on another processing process.**:
 
 Processed files: 
   - tweets_with_labels_pl.csv
